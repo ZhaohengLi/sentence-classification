@@ -4,7 +4,7 @@ from itertools import chain
 
 import numpy as np
 
-from dataloader import ClassificationBase
+from data_loader import ClassificationBase
 
 # pylint: disable=W0223
 
